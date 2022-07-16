@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacobwanner
 
-- 👀 I’m interested in growing my knowledge in all areas of life but especially coding!
+- 👀 I’m interested in growing my knowledge in all areas of Web Development!
 
 - 🌱 I’m currently learning Javascript but also more about git and the command line interface.
 
