@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on any project you might have in mind! I am a hardworker who doesnt like to stop until I get the job done correctly.
 
-- 📫 Please reach out to me at: 
+- 📫 Please reach out to me at: wannerjacob13@gmail.com
 -     Linkedin: www.linkedin.com/in/jacob-wanner
 -     Twitter:  @JacobWanner9
 -     Discord:  @FierceGuerrilla#4453
