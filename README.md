@@ -2,9 +2,9 @@
 
 - 👀 I’m interested in growing my knowledge in all areas of Web Development!
 
-- 🌱 I’m currently learning Javascript but also more about git and the command line interface.
+- 🌱 I’m currently learning Javascript and Node.js
 
-- 💞️ I’m looking to collaborate on any project you might have in mind! I am a hardworker who doesnt like to stop until I have my project perfect.
+- 💞️ I’m looking to collaborate on any project you might have in mind! I am a hardworker who doesnt like to stop until I get the job done correctly.
 
 - 📫 Please reach out to me at: 
 -     Linkedin: www.linkedin.com/in/jacob-wanner
