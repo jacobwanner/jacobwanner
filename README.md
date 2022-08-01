@@ -8,5 +8,5 @@
 
 - 📫 Please reach out to me at: wannerjacob13@gmail.com or
 -     Linkedin: www.linkedin.com/in/jacob-wanner
--     Twitter:  @JacobWanner9
+-     Twitter:  [@JacobWanner9](https://twitter.com/JacobWanner9)
 -     Discord:  @FierceGuerrilla#4453
