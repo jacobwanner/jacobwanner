@@ -1,6 +1,6 @@
 - Hi, I’m Jacob Wanner
 
-- I am a Software Developer at a Kaeser Compressors Inc.
+- I am a Software Developer with a BS in Computer Science.
 
 - My current personal project is a Real Estate Pricing Estimator using machine learning algorithms.
 
