@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @jacobwanner
+- Hi, I’m Jacob Wanner
 
-- 👀 I’m interested in starting my career as a software developer!
+- I am a Software Developer at a Kaeser Compressors Inc.
 
-- 🌱 I’m currently learning advanced react and node.
+- My current personal project is a Real Estate Pricing Estimator using machine learning algorithms.
 
-- 💞️ I’m looking to collaborate on any project you might have in mind! I am a hardworker who doesn't like to stop until the job is done correctly.
+- I’m currently finishing up my Sec+ Certification.
 
 - 📫 Please reach out to me on:
 -     Linkedin: www.linkedin.com/in/jacob-wanner
--     Discord:  @FierceGuerrilla#4453
