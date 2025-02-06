@@ -2,7 +2,7 @@
 
 **`Software Developer for Kaeser Compressors Inc.`**
 
-I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I am a full-stack developer dedicated to constructing my vision of the digital world, one step at a time. Each project I undertake is developed from the ground up, encompassing every phase from initial planning and design to leveraging code to address real-world challenges.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/jacob-wanner">
