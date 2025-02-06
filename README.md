@@ -5,7 +5,7 @@
 I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
    <p align="left">
-      <a href="linkedin.com/in/jacobwanner">
+      <a href="https://www.linkedin.com/in/jacobwanner">
          <img alt="Linkedin Link" title="Linkedin" src="./assests/linkedin.svg"/></a> 
       <a href="mailto:wannerjacob13@gmail.com">
          <img alt="Email link" title="Email Me" src="./assests/mail.svg"/></a> 
