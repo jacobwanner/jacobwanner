@@ -8,7 +8,7 @@ I'm a full-stack developer building my version of the digital world one step at 
       <a href="linkedin.com/jacobwanner">
          <img alt="Linkedin Link" title="Linkedin" src="./assests/linkedin.svg"/></a> 
       <a href="mailto:wannerjacob13@gmail.com">
-         <img alt="Email link" title="Email Me" src="./assests/mail.svg.svg"/></a> 
+         <img alt="Email link" title="Email Me" src="./assests/mail.svg"/></a> 
    </p>
 
 ### 🧰 Languages and Tools
