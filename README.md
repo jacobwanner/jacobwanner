@@ -11,6 +11,8 @@ I'm a full-stack developer building my version of the digital world one step at 
          <img alt="Email link" title="Email Me" src="./assests/mail.svg"/></a> 
    </p>
 
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
